@@ -1,0 +1,18 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  user-select: none;
+  -ms-overflow-style: none;  /* Oculta la barra de desplazamiento en Internet Explorer y Edge */
+  scrollbar-width: none;
+}
+body,html {
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgb(73, 73, 73);
+    scroll-behavior: smooth;/*mejora el desplazamiento dentro del sitio*/
+  }
+
+  

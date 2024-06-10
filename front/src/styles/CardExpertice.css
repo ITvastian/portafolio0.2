@@ -1,0 +1,13 @@
+.card {
+  background-color: #ffffff;
+}
+button {
+  border: none;
+  border-radius: 5px;
+  padding: 3px 15px;
+  font-size: 17px;
+  font-weight: 100;
+}
+button:hover {
+  background-color: #b1b1b1;
+}
